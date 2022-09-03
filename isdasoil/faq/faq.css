@@ -1,0 +1,18 @@
+@media (min-width: 1024px) {
+    .table-desktop {
+        display: block;
+        overflow: auto;
+    }
+    .table-mobile {
+        display: none;
+    }
+}
+
+@media (max-width: 1024px) {
+    .table-desktop {
+        display: none;
+    }
+    .table-mobile {
+        display: block;
+    }
+}
