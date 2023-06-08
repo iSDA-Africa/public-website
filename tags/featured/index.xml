@@ -1,4 +1,41 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>featured on iSDA</title><link>https://www.isda-africa.com/tags/featured/</link><description>Recent content in featured on iSDA</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.isda-africa.com/tags/featured/index.xml" rel="self" type="application/rss+xml"/><item><title>iSDA releases a large soil analysis dataset for Africa</title><link>https://www.isda-africa.com/posts/2023-03-16-soil-data-release/</link><pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate><guid>https://www.isda-africa.com/posts/2023-03-16-soil-data-release/</guid><description>ISDA is proud to release a large dataset of analysed soil samples covering the African continent. These data are analysis-ready and do not require any preprocessing before usage. The dataset was collected and analysed according to protocols created by the African Soil Information Service (AfSIS) project (Vågen T-G et al., 2010). AfSIS was an initiative funded by the Bill and Melinda Gates Foundation, aimed at improving soil information across Africa. Data were collected and analysed between 2008 and 2020.</description></item><item><title>Launch of Global Crop Nutrient Databases</title><link>https://www.isda-africa.com/posts/2022-09-05-global-crop-nutrient-databases-launched/</link><pubDate>Sun, 04 Sep 2022 12:17:27 +0100</pubDate><guid>https://www.isda-africa.com/posts/2022-09-05-global-crop-nutrient-databases-launched/</guid><description>On 6th September 2022 a landmark new open data crop nutrition platform will launch. A partnership of the Consortium for Precision Crop Nutrition, global research institutes and agtech companies like iSDA, the first outputs will be two databases focused on crop nutrition.
-The databases will serve as a valuable open resource for agriculturual researchers and those in industry conducting field trials on soil fertility and crop nutrition. Users can both contribute to and benefit from the shared datasets, allowing critical data to be shared amongst researchers and commercial companies.</description></item><item><title>iSDA exhibiting at AGRF Summit, Kigali</title><link>https://www.isda-africa.com/posts/2022-09-04-isda-at-agrf-2022/</link><pubDate>Fri, 02 Sep 2022 08:46:11 +0100</pubDate><guid>https://www.isda-africa.com/posts/2022-09-04-isda-at-agrf-2022/</guid><description>Grow. Nourish. Reward - Bold Actions for Resilient Food Systems AGRF, Africa’s premier forum for driving the food and agriculture agenda in the continent, will host its 12th annual summit under the theme Grow. Nourish. Reward – Bold Actions for Resilient Food Systems from September 5-9, 2022 in Kigali, Rwanda.
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>featured on iSDA</title>
+    <link>https://www.isda-africa.com/tags/featured/</link>
+    <description>Recent content in featured on iSDA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 16 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.isda-africa.com/tags/featured/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>iSDA releases a large soil analysis dataset for Africa</title>
+      <link>https://www.isda-africa.com/posts/2023-03-16-soil-data-release/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.isda-africa.com/posts/2023-03-16-soil-data-release/</guid>
+      <description>ISDA is proud to release a large dataset of analysed soil samples covering the African continent. These data are analysis-ready and do not require any preprocessing before usage. The dataset was collected and analysed according to protocols created by the African Soil Information Service (AfSIS) project (Vågen T-G et al., 2010). AfSIS was an initiative funded by the Bill and Melinda Gates Foundation, aimed at improving soil information across Africa. Data were collected and analysed between 2008 and 2020.</description>
+    </item>
+    
+    <item>
+      <title>Launch of Global Crop Nutrient Databases</title>
+      <link>https://www.isda-africa.com/posts/2022-09-05-global-crop-nutrient-databases-launched/</link>
+      <pubDate>Sun, 04 Sep 2022 12:17:27 +0100</pubDate>
+      
+      <guid>https://www.isda-africa.com/posts/2022-09-05-global-crop-nutrient-databases-launched/</guid>
+      <description>On 6th September 2022 a landmark new open data crop nutrition platform will launch. A partnership of the Consortium for Precision Crop Nutrition, global research institutes and agtech companies like iSDA, the first outputs will be two databases focused on crop nutrition.
+The databases will serve as a valuable open resource for agriculturual researchers and those in industry conducting field trials on soil fertility and crop nutrition. Users can both contribute to and benefit from the shared datasets, allowing critical data to be shared amongst researchers and commercial companies.</description>
+    </item>
+    
+    <item>
+      <title>iSDA exhibiting at AGRF Summit, Kigali</title>
+      <link>https://www.isda-africa.com/posts/2022-09-04-isda-at-agrf-2022/</link>
+      <pubDate>Fri, 02 Sep 2022 08:46:11 +0100</pubDate>
+      
+      <guid>https://www.isda-africa.com/posts/2022-09-04-isda-at-agrf-2022/</guid>
+      <description>Grow. Nourish. Reward - Bold Actions for Resilient Food Systems AGRF, Africa’s premier forum for driving the food and agriculture agenda in the continent, will host its 12th annual summit under the theme Grow. Nourish. Reward – Bold Actions for Resilient Food Systems from September 5-9, 2022 in Kigali, Rwanda.
 We&amp;rsquo;ll be attending and exhibiting our products:
-Virtual Agronomist Directly supporting the aims of the summit is Virtual Agronomist, our system for expert advisory for farmers at scale, which supports resilient food systems by improving smallholder farmer yields and incomes, and by reducing waste through individualised fertiliser plans.</description></item></channel></rss>
+Virtual Agronomist Directly supporting the aims of the summit is Virtual Agronomist, our system for expert advisory for farmers at scale, which supports resilient food systems by improving smallholder farmer yields and incomes, and by reducing waste through individualised fertiliser plans.</description>
+    </item>
+    
+  </channel>
+</rss>
