@@ -6,7 +6,7 @@
     <description>Recent content on iSDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 08 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.isda-africa.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.isda-africa.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developer Portal</title>
       <link>https://www.isda-africa.com/isdasoil/developer/</link>
@@ -42,6 +42,17 @@ Our key output is spatial predictions of crucial soil nutrients and properties, 
       
       <guid>https://www.isda-africa.com/isdasoil/isdasoil-on-aws/</guid>
       <description>This page contains information about how to access the iSDAsoil data hosted on the AWS Registry of Open Data, as well as background information about the dataset that will help you to use it. To visually explore the maps that we’ve created, please visit the iSDAsoil homepage. You can find more detailed information on how the maps were made on our technical information and further information on our FAQ pages.</description>
+    </item>
+    
+    <item>
+      <title>Sustain Africa - increasing access to affordable fertiliser at scale</title>
+      <link>https://www.isda-africa.com/posts/2023-06-22-sustain-africa/</link>
+      <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.isda-africa.com/posts/2023-06-22-sustain-africa/</guid>
+      <description>As fertiliser prices continued to spike due to the Russia/Ukraine conflict, iSDA joined the Sustain Africa initiative in 2022 to increase African farmers&amp;rsquo; access to affordable fertiliser.
+The initiative is a partnership between multiple organisations including the International Fertilizer Association, Bill and Melinda Gates Foundation, African Fertilizer, Agribusiness Partnership (AFAP) and AGRA. It has already targeted 1.5 million farmers across the continent.
+A great challenge when it comes to fertiliser use in Africa is the lack of precision in delivering the correct chemical formulation needed for each patch of farmland.</description>
     </item>
     
     <item>
