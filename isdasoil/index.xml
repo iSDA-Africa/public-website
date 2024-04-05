@@ -6,63 +6,49 @@
     <description>Recent content in iSDAsoil on iSDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 07 Apr 2022 12:50:33 +0100</lastBuildDate><atom:link href="https://www.isda-africa.com/isdasoil/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Apr 2022 12:50:33 +0100</lastBuildDate>
+    <atom:link href="https://www.isda-africa.com/isdasoil/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developer Portal</title>
       <link>https://www.isda-africa.com/isdasoil/developer/</link>
       <pubDate>Fri, 08 Jul 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/developer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FAQs</title>
       <link>https://www.isda-africa.com/isdasoil/faq/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/faq/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Technical Information</title>
       <link>https://www.isda-africa.com/isdasoil/technical-information/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/technical-information/</guid>
-      <description>How were these maps made? Welcome to this brief guide on the work behind our mapping technology. We hope it will give you a good understanding of the unique process we’ve developed to create our maps. For detailed information on our workflow, please read our paper in Nature Scientific Reports.
-Our key output is spatial predictions of crucial soil nutrients and properties, based on the predictive soil mapping (PSM) techniques. The first step in this process is to standardise all the input soil data by i) ensuring all measured units are in the same format; ii) harmonizing properties measured using different techniques; and iii) removing any erroneous datapoints.</description>
+      <description>How were these maps made? Welcome to this brief guide on the work behind our mapping technology. We hope it will give you a good understanding of the unique process we’ve developed to create our maps. For detailed information on our workflow, please read our paper in Nature Scientific Reports.&#xA;Our key output is spatial predictions of crucial soil nutrients and properties, based on the predictive soil mapping (PSM) techniques. The first step in this process is to standardise all the input soil data by i) ensuring all measured units are in the same format; ii) harmonizing properties measured using different techniques; and iii) removing any erroneous datapoints.</description>
     </item>
-    
     <item>
       <title>iSDAsoil on the AWS Registry of Open Data</title>
       <link>https://www.isda-africa.com/isdasoil/isdasoil-on-aws/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/isdasoil-on-aws/</guid>
       <description>This page contains information about how to access the iSDAsoil data hosted on the AWS Registry of Open Data, as well as background information about the dataset that will help you to use it. To visually explore the maps that we’ve created, please visit the iSDAsoil homepage. You can find more detailed information on how the maps were made on our technical information and further information on our FAQ pages.</description>
     </item>
-    
     <item>
       <title>Open access soil data for Africa</title>
       <link>https://www.isda-africa.com/isdasoil/open-soil-data/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/open-soil-data/</guid>
-      <description>As part of our commitment to open access data, we are maintaining a soil analysis dataset for Africa. Our intention is to bring together as much soil data as possible in an analysis-ready format. We use this dataset to train the models that create the iSDAsoil maps. We plan to regularly update this resource with additional soil data.
-Contributing data We are maintaining a GitHub repository at https://github.com/iSDA-Africa/open-soil-data. We welcome any pull requests contributing additional data.</description>
+      <description>As part of our commitment to open access data, we are maintaining a soil analysis dataset for Africa. Our intention is to bring together as much soil data as possible in an analysis-ready format. We use this dataset to train the models that create the iSDAsoil maps. We plan to regularly update this resource with additional soil data.&#xA;Contributing data We are maintaining a GitHub repository at https://github.com/iSDA-Africa/open-soil-data. We welcome any pull requests contributing additional data.</description>
     </item>
-    
     <item>
       <title>iSDAsoil Terms of Use</title>
       <link>https://www.isda-africa.com/isdasoil/terms/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/terms/</guid>
-      <description>1. Who we are and how to contact us The soil maps and data presented within iSDAsoil (together “iSDAsoil”) are made available by Innovative Solutions for Decision Agriculture (“Us”). We are registered in England and Wales under company number 11429051 and have our registered office at Rothamsted Research, West Common, Harpenden, Hertfordshire, AL5 2JQ. We are a social enterprise.
-2. By accessing and using iSDAsoil you accept these terms By accessing and using iSDAsoil, you confirm that you accept and agree to comply with: these terms, the general Terms of Use governing our website and our Privacy and Cookie Policy.</description>
+      <description>1. Who we are and how to contact us The soil maps and data presented within iSDAsoil (together “iSDAsoil”) are made available by Innovative Solutions for Decision Agriculture (“Us”). We are registered in England and Wales under company number 11429051 and have our registered office at Rothamsted Research, West Common, Harpenden, Hertfordshire, AL5 2JQ. We are a social enterprise.&#xA;2. By accessing and using iSDAsoil you accept these terms By accessing and using iSDAsoil, you confirm that you accept and agree to comply with: these terms, the general Terms of Use governing our website and our Privacy and Cookie Policy.</description>
     </item>
-    
   </channel>
 </rss>

@@ -6,338 +6,238 @@
     <description>Recent content on iSDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://www.isda-africa.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.isda-africa.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Developer Portal</title>
       <link>https://www.isda-africa.com/isdasoil/developer/</link>
       <pubDate>Fri, 08 Jul 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/developer/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>FAQs</title>
       <link>https://www.isda-africa.com/isdasoil/faq/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/faq/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Technical Information</title>
       <link>https://www.isda-africa.com/isdasoil/technical-information/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/technical-information/</guid>
-      <description>How were these maps made? Welcome to this brief guide on the work behind our mapping technology. We hope it will give you a good understanding of the unique process we’ve developed to create our maps. For detailed information on our workflow, please read our paper in Nature Scientific Reports.
-Our key output is spatial predictions of crucial soil nutrients and properties, based on the predictive soil mapping (PSM) techniques. The first step in this process is to standardise all the input soil data by i) ensuring all measured units are in the same format; ii) harmonizing properties measured using different techniques; and iii) removing any erroneous datapoints.</description>
+      <description>How were these maps made? Welcome to this brief guide on the work behind our mapping technology. We hope it will give you a good understanding of the unique process we’ve developed to create our maps. For detailed information on our workflow, please read our paper in Nature Scientific Reports.&#xA;Our key output is spatial predictions of crucial soil nutrients and properties, based on the predictive soil mapping (PSM) techniques. The first step in this process is to standardise all the input soil data by i) ensuring all measured units are in the same format; ii) harmonizing properties measured using different techniques; and iii) removing any erroneous datapoints.</description>
     </item>
-    
     <item>
       <title>iSDAsoil on the AWS Registry of Open Data</title>
       <link>https://www.isda-africa.com/isdasoil/isdasoil-on-aws/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/isdasoil-on-aws/</guid>
       <description>This page contains information about how to access the iSDAsoil data hosted on the AWS Registry of Open Data, as well as background information about the dataset that will help you to use it. To visually explore the maps that we’ve created, please visit the iSDAsoil homepage. You can find more detailed information on how the maps were made on our technical information and further information on our FAQ pages.</description>
     </item>
-    
     <item>
       <title>iSDAsoil used in malaria mapping study</title>
       <link>https://www.isda-africa.com/posts/2023-07-28-isdasoil-malaria-mapping/</link>
       <pubDate>Fri, 28 Jul 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2023-07-28-isdasoil-malaria-mapping/</guid>
-      <description>iSDA’s soil and agronomy map iSDAsoil was recently used by scientists to create a framework to map the malaria exposure levels of Africans living in towns and cities.
-Though iSDAsoil is primarily used by iSDA as input for Virtual Agronomist, which determines the best use and combinations of fertilisers on their land, it also contains information on different chemical and physical soil properties that were used by these scientists.
-Soil pH has an effect on the habitats of the Anopheles mosquito which transmits malaria.</description>
+      <description>iSDA’s soil and agronomy map iSDAsoil was recently used by scientists to create a framework to map the malaria exposure levels of Africans living in towns and cities.&#xA;Though iSDAsoil is primarily used by iSDA as input for Virtual Agronomist, which determines the best use and combinations of fertilisers on their land, it also contains information on different chemical and physical soil properties that were used by these scientists.&#xA;Soil pH has an effect on the habitats of the Anopheles mosquito which transmits malaria.</description>
     </item>
-    
     <item>
       <title>Sustain Africa - increasing access to affordable fertiliser at scale</title>
       <link>https://www.isda-africa.com/posts/2023-06-22-sustain-africa/</link>
       <pubDate>Thu, 22 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2023-06-22-sustain-africa/</guid>
-      <description>As fertiliser prices continued to spike due to the Russia/Ukraine conflict, iSDA joined the Sustain Africa initiative in 2022 to increase African farmers&amp;rsquo; access to affordable fertiliser.
-The initiative is a partnership between multiple organisations including the International Fertilizer Association, Bill and Melinda Gates Foundation, African Fertilizer, Agribusiness Partnership (AFAP) and AGRA. It has already targeted 1.5 million farmers across the continent.
-A great challenge when it comes to fertiliser use in Africa is the lack of precision in delivering the correct chemical formulation needed for each patch of farmland.</description>
+      <description>As fertiliser prices continued to spike due to the Russia/Ukraine conflict, iSDA joined the Sustain Africa initiative in 2022 to increase African farmers&amp;rsquo; access to affordable fertiliser.&#xA;The initiative is a partnership between multiple organisations including the International Fertilizer Association, Bill and Melinda Gates Foundation, African Fertilizer, Agribusiness Partnership (AFAP) and AGRA. It has already targeted 1.5 million farmers across the continent.&#xA;A great challenge when it comes to fertiliser use in Africa is the lack of precision in delivering the correct chemical formulation needed for each patch of farmland.</description>
     </item>
-    
     <item>
       <title>CEO Announcement</title>
       <link>https://www.isda-africa.com/posts/2023-06-08-ceo-announcement/</link>
       <pubDate>Thu, 08 Jun 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2023-06-08-ceo-announcement/</guid>
-      <description>On behalf of the iSDA Board and team, I am delighted to announce Jamie Collinson as our new Chief Executive Officer.
-Jamie has been instrumental to iSDA’s development since joining as Chief Technology Officer in 2020. His appointment to CEO reflects our firm belief, demonstrated over iSDA&amp;rsquo;s initial discovery phase, that a technology and science-driven approach will unlock agricultural productivity across the African continent.
-Jamie is a world-class technologist, and has a demonstrated track record of growing early stage businesses to success.</description>
+      <description>On behalf of the iSDA Board and team, I am delighted to announce Jamie Collinson as our new Chief Executive Officer.&#xA;Jamie has been instrumental to iSDA’s development since joining as Chief Technology Officer in 2020. His appointment to CEO reflects our firm belief, demonstrated over iSDA&amp;rsquo;s initial discovery phase, that a technology and science-driven approach will unlock agricultural productivity across the African continent.&#xA;Jamie is a world-class technologist, and has a demonstrated track record of growing early stage businesses to success.</description>
     </item>
-    
     <item>
       <title>iSDA releases a large soil analysis dataset for Africa</title>
       <link>https://www.isda-africa.com/posts/2023-03-16-soil-data-release/</link>
       <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2023-03-16-soil-data-release/</guid>
       <description>ISDA is proud to release a large dataset of analysed soil samples covering the African continent. These data are analysis-ready and do not require any preprocessing before usage. The dataset was collected and analysed according to protocols created by the African Soil Information Service (AfSIS) project (Vågen T-G et al., 2010). AfSIS was an initiative funded by the Bill and Melinda Gates Foundation, aimed at improving soil information across Africa. Data were collected and analysed between 2008 and 2020.</description>
     </item>
-    
     <item>
       <title>Open access soil data for Africa</title>
       <link>https://www.isda-africa.com/isdasoil/open-soil-data/</link>
       <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/open-soil-data/</guid>
-      <description>As part of our commitment to open access data, we are maintaining a soil analysis dataset for Africa. Our intention is to bring together as much soil data as possible in an analysis-ready format. We use this dataset to train the models that create the iSDAsoil maps. We plan to regularly update this resource with additional soil data.
-Contributing data We are maintaining a GitHub repository at https://github.com/iSDA-Africa/open-soil-data. We welcome any pull requests contributing additional data.</description>
+      <description>As part of our commitment to open access data, we are maintaining a soil analysis dataset for Africa. Our intention is to bring together as much soil data as possible in an analysis-ready format. We use this dataset to train the models that create the iSDAsoil maps. We plan to regularly update this resource with additional soil data.&#xA;Contributing data We are maintaining a GitHub repository at https://github.com/iSDA-Africa/open-soil-data. We welcome any pull requests contributing additional data.</description>
     </item>
-    
     <item>
       <title>Launch of Global Crop Nutrient Databases</title>
       <link>https://www.isda-africa.com/posts/2022-09-05-global-crop-nutrient-databases-launched/</link>
       <pubDate>Sun, 04 Sep 2022 12:17:27 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2022-09-05-global-crop-nutrient-databases-launched/</guid>
-      <description>On 6th September 2022 a landmark new open data crop nutrition platform will launch. A partnership of the Consortium for Precision Crop Nutrition, global research institutes and agtech companies like iSDA, the first outputs will be two databases focused on crop nutrition.
-The databases will serve as a valuable open resource for agriculturual researchers and those in industry conducting field trials on soil fertility and crop nutrition. Users can both contribute to and benefit from the shared datasets, allowing critical data to be shared amongst researchers and commercial companies.</description>
+      <description>On 6th September 2022 a landmark new open data crop nutrition platform will launch. A partnership of the Consortium for Precision Crop Nutrition, global research institutes and agtech companies like iSDA, the first outputs will be two databases focused on crop nutrition.&#xA;The databases will serve as a valuable open resource for agriculturual researchers and those in industry conducting field trials on soil fertility and crop nutrition. Users can both contribute to and benefit from the shared datasets, allowing critical data to be shared amongst researchers and commercial companies.</description>
     </item>
-    
     <item>
       <title>iSDA exhibiting at AGRF Summit, Kigali</title>
       <link>https://www.isda-africa.com/posts/2022-09-04-isda-at-agrf-2022/</link>
       <pubDate>Fri, 02 Sep 2022 08:46:11 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2022-09-04-isda-at-agrf-2022/</guid>
-      <description>Grow. Nourish. Reward - Bold Actions for Resilient Food Systems AGRF, Africa’s premier forum for driving the food and agriculture agenda in the continent, will host its 12th annual summit under the theme Grow. Nourish. Reward – Bold Actions for Resilient Food Systems from September 5-9, 2022 in Kigali, Rwanda.
-We&amp;rsquo;ll be attending and exhibiting our products:
-Virtual Agronomist Directly supporting the aims of the summit is Virtual Agronomist, our system for expert advisory for farmers at scale, which supports resilient food systems by improving smallholder farmer yields and incomes, and by reducing waste through individualised fertiliser plans.</description>
+      <description>Grow. Nourish. Reward - Bold Actions for Resilient Food Systems AGRF, Africa’s premier forum for driving the food and agriculture agenda in the continent, will host its 12th annual summit under the theme Grow. Nourish. Reward – Bold Actions for Resilient Food Systems from September 5-9, 2022 in Kigali, Rwanda.&#xA;We&amp;rsquo;ll be attending and exhibiting our products:&#xA;Virtual Agronomist Directly supporting the aims of the summit is Virtual Agronomist, our system for expert advisory for farmers at scale, which supports resilient food systems by improving smallholder farmer yields and incomes, and by reducing waste through individualised fertiliser plans.</description>
     </item>
-    
     <item>
       <title>World Congress of Soil Science 2022</title>
       <link>https://www.isda-africa.com/posts/2022-08-19-world-congress-of-soil-science/</link>
       <pubDate>Fri, 19 Aug 2022 12:26:27 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2022-08-19-world-congress-of-soil-science/</guid>
-      <description>Keith Shepherd (iSDA Chief Science Officer) presented a paper at the World Congress of Soil Science on A Global Soil Spectral Calibration &amp;amp; Estimation Service in Glasgow in August 2022.
-The paper described ia freely available service that will allow users anywhere in the world to upload soil infrared spectra measurements and obtain estimates of multiple soil properties.
-The presentation can be viewed here.</description>
+      <description>Keith Shepherd (iSDA Chief Science Officer) presented a paper at the World Congress of Soil Science on A Global Soil Spectral Calibration &amp;amp; Estimation Service in Glasgow in August 2022.&#xA;The paper described ia freely available service that will allow users anywhere in the world to upload soil infrared spectra measurements and obtain estimates of multiple soil properties.&#xA;The presentation can be viewed here.</description>
     </item>
-    
     <item>
       <title>iSDAsoil Terms of Use</title>
       <link>https://www.isda-africa.com/isdasoil/terms/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/isdasoil/terms/</guid>
-      <description>1. Who we are and how to contact us The soil maps and data presented within iSDAsoil (together “iSDAsoil”) are made available by Innovative Solutions for Decision Agriculture (“Us”). We are registered in England and Wales under company number 11429051 and have our registered office at Rothamsted Research, West Common, Harpenden, Hertfordshire, AL5 2JQ. We are a social enterprise.
-2. By accessing and using iSDAsoil you accept these terms By accessing and using iSDAsoil, you confirm that you accept and agree to comply with: these terms, the general Terms of Use governing our website and our Privacy and Cookie Policy.</description>
+      <description>1. Who we are and how to contact us The soil maps and data presented within iSDAsoil (together “iSDAsoil”) are made available by Innovative Solutions for Decision Agriculture (“Us”). We are registered in England and Wales under company number 11429051 and have our registered office at Rothamsted Research, West Common, Harpenden, Hertfordshire, AL5 2JQ. We are a social enterprise.&#xA;2. By accessing and using iSDAsoil you accept these terms By accessing and using iSDAsoil, you confirm that you accept and agree to comply with: these terms, the general Terms of Use governing our website and our Privacy and Cookie Policy.</description>
     </item>
-    
     <item>
       <title>Privacy &amp; Cookie Policy</title>
       <link>https://www.isda-africa.com/privacy-policy/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/privacy-policy/</guid>
-      <description>Innovative Solutions for Decision Agriculture (iSDA) (we, us, our) respects your privacy and is committed to protecting your personal data.
-This privacy policy aims to give you information on how iSDA processes your personal data when we collect personal data from you or that you provide to us through your use of the iSDA website, in particular how we go about keeping it secure at all times.
-Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</description>
+      <description>Innovative Solutions for Decision Agriculture (iSDA) (we, us, our) respects your privacy and is committed to protecting your personal data.&#xA;This privacy policy aims to give you information on how iSDA processes your personal data when we collect personal data from you or that you provide to us through your use of the iSDA website, in particular how we go about keeping it secure at all times.&#xA;Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.</description>
     </item>
-    
     <item>
       <title>Terms of Use</title>
       <link>https://www.isda-africa.com/terms-of-use/</link>
       <pubDate>Thu, 04 Aug 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/terms-of-use/</guid>
-      <description>Your use of our website is subject to the following terms and, by using our website, you agree to be legally bound by them. Please read these terms carefully before using our website. We may revise these terms from time to time.
-1. Terms and Conditions for the use of this website This ‘Terms of Use’ policy sets out the terms between you and us under which you may access the iSDA websites.</description>
+      <description>Your use of our website is subject to the following terms and, by using our website, you agree to be legally bound by them. Please read these terms carefully before using our website. We may revise these terms from time to time.&#xA;1. Terms and Conditions for the use of this website This ‘Terms of Use’ policy sets out the terms between you and us under which you may access the iSDA websites.</description>
     </item>
-    
     <item>
       <title>About</title>
       <link>https://www.isda-africa.com/about/</link>
       <pubDate>Thu, 07 Apr 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/about/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Contact Us</title>
       <link>https://www.isda-africa.com/contact-us/</link>
       <pubDate>Thu, 07 Apr 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/contact-us/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Team</title>
       <link>https://www.isda-africa.com/team/</link>
       <pubDate>Thu, 07 Apr 2022 12:50:33 +0100</pubDate>
-      
       <guid>https://www.isda-africa.com/team/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>iSDA introduces the Virtual Agronomist App to the International Fertilizer Association</title>
       <link>https://www.isda-africa.com/posts/2021-03-26-isda-introduces-virtual-agronomist-app-to-ifa/</link>
       <pubDate>Fri, 26 Mar 2021 12:36:19 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-03-26-isda-introduces-virtual-agronomist-app-to-ifa/</guid>
-      <description>On 26th February 2021 the iSDA team demonstrated the prototype app “Virtual Agronomist” to the International Fertilizer Association (IFA). The recorded webinar is available to view on YouTube.
-Presenting and answering the many user questions were members of the iSDA team: Jonathan Crouch, CEO; Jamie Collinson, CTO; Monica Cross, Head of Operations; Matt Miller, Lead Data Scientist; and Keith Shepherd, Head of Diagnostics and Decision Science. The webinar was chaired by Achim Dobermann, Chief Scientist at IFA.</description>
+      <description>On 26th February 2021 the iSDA team demonstrated the prototype app “Virtual Agronomist” to the International Fertilizer Association (IFA). The recorded webinar is available to view on YouTube.&#xA;Presenting and answering the many user questions were members of the iSDA team: Jonathan Crouch, CEO; Jamie Collinson, CTO; Monica Cross, Head of Operations; Matt Miller, Lead Data Scientist; and Keith Shepherd, Head of Diagnostics and Decision Science. The webinar was chaired by Achim Dobermann, Chief Scientist at IFA.</description>
     </item>
-    
     <item>
       <title>AfCPA Conference</title>
       <link>https://www.isda-africa.com/posts/2021-03-26-afcpa-conference/</link>
       <pubDate>Fri, 26 Mar 2021 12:24:35 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-03-26-afcpa-conference/</guid>
       <description>Notes from the first African Conference on Precision Agriculture, 8th to 10th December 2020. The session was hosted by Jonathan Crouch (CEO, iSDA) with contributions from Matt Miller (Lead Data Scientist, iSDA), Jamie Collinson (CTO, iSDA), and Keith Shepherd (Head of Diagnostics and Decision Science, iSDA). The Panel comprised Praveen Singh (Agronomist, Indorama), Pieter Pypers (Senior Agronomist, International Institute of Tropical Agriculture), and Rik van den Bosch (Director, International Soil Reference and Information Centre).</description>
     </item>
-    
     <item>
       <title>University of Aberdeen’s research project to tackle land loss in Ethiopia, utilises iSDAsoil</title>
       <link>https://www.isda-africa.com/posts/2021-03-22-university-of-aberdeen-research-ethiopia-utilises-isdasoil/</link>
       <pubDate>Mon, 22 Mar 2021 11:26:30 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-03-22-university-of-aberdeen-research-ethiopia-utilises-isdasoil/</guid>
-      <description>David McBey and Michael Martin from the University of Aberdeen speak to iSDA about how they are using the iSDAsoil resource to underpin the tools developed for their project.
-The project – Reducing land degradation and carbon loss from Ethiopia’s soils to strengthen livelihoods and resilience – is funded through a £1,000,000 grant from the UKRI Global Challenges Research Fund (GCRF).
-David McBey describes the project aims and background My background is that I’m a social scientist.</description>
+      <description>David McBey and Michael Martin from the University of Aberdeen speak to iSDA about how they are using the iSDAsoil resource to underpin the tools developed for their project.&#xA;The project – Reducing land degradation and carbon loss from Ethiopia’s soils to strengthen livelihoods and resilience – is funded through a £1,000,000 grant from the UKRI Global Challenges Research Fund (GCRF).&#xA;David McBey describes the project aims and background My background is that I’m a social scientist.</description>
     </item>
-    
     <item>
       <title>ASA Conference</title>
       <link>https://www.isda-africa.com/posts/2021-02-18-asa-conference-10-11-november-2020/</link>
       <pubDate>Thu, 18 Feb 2021 10:16:30 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-02-18-asa-conference-10-11-november-2020/</guid>
-      <description>Notes from the Special symposium on Translating Visionary Science for Excellence in African Agronomy at The American Society of Agronomy (ASA), the Crop Science Society of America (CSSA), and the Soil Science Society of America (SSSA) International Annual Meeting. 10th to 11th November 2020.
-View the recorded videos from the conference.
-African soils at 30-m resolution. A breakthrough for low-cost agronomic advisory. Presented by Achim Dobermann. Chief Scientist, International Fertiliser Association.</description>
+      <description>Notes from the Special symposium on Translating Visionary Science for Excellence in African Agronomy at The American Society of Agronomy (ASA), the Crop Science Society of America (CSSA), and the Soil Science Society of America (SSSA) International Annual Meeting. 10th to 11th November 2020.&#xA;View the recorded videos from the conference.&#xA;African soils at 30-m resolution. A breakthrough for low-cost agronomic advisory. Presented by Achim Dobermann. Chief Scientist, International Fertiliser Association.</description>
     </item>
-    
     <item>
       <title>iSDAsoil Launch</title>
       <link>https://www.isda-africa.com/posts/2021-02-16-isdasoil-launch/</link>
       <pubDate>Tue, 16 Feb 2021 09:21:44 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-02-16-isdasoil-launch/</guid>
-      <description>iSDAsoil previously launched on 23rd October 2020 and is an open access soil property map with 30m resolution for Africa. iSDA has collaborated with ICRAF, Rothamsted Research, Envirometrix, GiLab, and MultiOne to gather the immense dataset which underpins this work.
-Using on-site soil samples and computer modelling, a detailed and interactive image is produced displaying multiple properties of the soil throughout Africa. The high resolution of the data (24 billion data points) means that a single farm can identify the soil type accurate to a particular field.</description>
+      <description>iSDAsoil previously launched on 23rd October 2020 and is an open access soil property map with 30m resolution for Africa. iSDA has collaborated with ICRAF, Rothamsted Research, Envirometrix, GiLab, and MultiOne to gather the immense dataset which underpins this work.&#xA;Using on-site soil samples and computer modelling, a detailed and interactive image is produced displaying multiple properties of the soil throughout Africa. The high resolution of the data (24 billion data points) means that a single farm can identify the soil type accurate to a particular field.</description>
     </item>
-    
     <item>
       <title>International Fertilizer Association Webinar 26 February 2021</title>
       <link>https://www.isda-africa.com/posts/2021-02-16-international-fertilizer-association-webinar-26-february-2021/</link>
       <pubDate>Tue, 16 Feb 2021 09:14:53 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-02-16-international-fertilizer-association-webinar-26-february-2021/</guid>
-      <description>An information revolution in Africa? Introducing iSDAsoil 26 February 2021, 3pm to 4pm CET IFA, the International Fertilizer Association is holding a free webinar focusing on iSDAsoil. IFA’s Members include fertilizer producers, traders and distributors, as well as their associations, service providers to the industry, research organizations, and non-governmental organizations (NGOs).
-Join us for a live demonstration of iSDAsoil with the team, and a discussion with IFA Chief Scientist Achim Dobermann on what this mapping can mean for the future of farming in Africa.</description>
+      <description>An information revolution in Africa? Introducing iSDAsoil 26 February 2021, 3pm to 4pm CET IFA, the International Fertilizer Association is holding a free webinar focusing on iSDAsoil. IFA’s Members include fertilizer producers, traders and distributors, as well as their associations, service providers to the industry, research organizations, and non-governmental organizations (NGOs).&#xA;Join us for a live demonstration of iSDAsoil with the team, and a discussion with IFA Chief Scientist Achim Dobermann on what this mapping can mean for the future of farming in Africa.</description>
     </item>
-    
     <item>
       <title>iSDAsoil at the AfCPA Virtual Conference</title>
       <link>https://www.isda-africa.com/posts/2021-01-11-isdasoil-at-the-afcpa-virtual-conference/</link>
       <pubDate>Mon, 11 Jan 2021 17:54:31 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2021-01-11-isdasoil-at-the-afcpa-virtual-conference/</guid>
-      <description>To celebrate the launch of iSDAsoil, the iSDA team made two presentations at The 1st African Conference on Precision Agriculture (AfCPA) in December 2020.
-An introduction to iSDAsoil Jonathan Crouch, CEO of iSDA presented an overview of iSDAsoil. He outlined the history of digital soil mapping in Africa, the improvements made in iSDAsoil, and some applications of the resource:
-The iSDAsoil interactive workshop The iSDA team then held an in-depth interactive session on iSDAsoil.</description>
+      <description>To celebrate the launch of iSDAsoil, the iSDA team made two presentations at The 1st African Conference on Precision Agriculture (AfCPA) in December 2020.&#xA;An introduction to iSDAsoil Jonathan Crouch, CEO of iSDA presented an overview of iSDAsoil. He outlined the history of digital soil mapping in Africa, the improvements made in iSDAsoil, and some applications of the resource:&#xA;The iSDAsoil interactive workshop The iSDA team then held an in-depth interactive session on iSDAsoil.</description>
     </item>
-    
     <item>
       <title>iSDAsoil at the ASA-CSSA-SSSA Virtual Conference</title>
       <link>https://www.isda-africa.com/posts/2020-12-03-isdasoil-asa-cssa-sssa-virtual-conference-recording/</link>
       <pubDate>Thu, 03 Dec 2020 09:07:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/posts/2020-12-03-isdasoil-asa-cssa-sssa-virtual-conference-recording/</guid>
-      <description>To celebrate the launch of iSDAsoil, the iSDA team made two presentations at The American Society of Agronomy, the Crop Science Society of America, and the Soil Science Society of America (ASA-CSSA-SSSA) Conference. This international virtual conference ran from the 9-13 November 2020.
-Achim Dobermann of the iSDA Board presented an overview of iSDAsoil. He outlined the problem space, importance of the breakthrough, and its potential applications:
-Achim Dobermann presents iSDAsoil</description>
+      <description>To celebrate the launch of iSDAsoil, the iSDA team made two presentations at The American Society of Agronomy, the Crop Science Society of America, and the Soil Science Society of America (ASA-CSSA-SSSA) Conference. This international virtual conference ran from the 9-13 November 2020.&#xA;Achim Dobermann of the iSDA Board presented an overview of iSDAsoil. He outlined the problem space, importance of the breakthrough, and its potential applications:&#xA;Achim Dobermann presents iSDAsoil</description>
     </item>
-    
     <item>
       <title>Customer Stories</title>
       <link>https://www.isda-africa.com/solutions/customer-stories/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/solutions/customer-stories/</guid>
       <description>TODO</description>
     </item>
-    
     <item>
       <title>Decision Science</title>
       <link>https://www.isda-africa.com/science/decision-science/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/science/decision-science/</guid>
-      <description>Our approach is heavily rooted in decision science, with the aim of improving the quality of decision making by farmers and support services.
-Farming anywhere is typified by high investment risks, due to uncertainties in weather, pests and diseases, labour availability, responses to inputs, market prices, and climate change, to name a few. Risks are particularly acute in sub-Saharan Africa smallholder systems due to large spatial and temporal variability in all these factors, coupled with large impacts due to low incomes, vulnerable households, and the high price of inputs.</description>
+      <description>Our approach is heavily rooted in decision science, with the aim of improving the quality of decision making by farmers and support services.&#xA;Farming anywhere is typified by high investment risks, due to uncertainties in weather, pests and diseases, labour availability, responses to inputs, market prices, and climate change, to name a few. Risks are particularly acute in sub-Saharan Africa smallholder systems due to large spatial and temporal variability in all these factors, coupled with large impacts due to low incomes, vulnerable households, and the high price of inputs.</description>
     </item>
-    
     <item>
       <title>Diagnostics</title>
       <link>https://www.isda-africa.com/science/diagnostics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/science/diagnostics/</guid>
       <description>iSDA is committed to diagnosing yield and profit limiting constraints. We do this at an individual field level to help farmers prioritise their investments, and at a project level to help aggregators target support services to farmers. Our applications help field officers quantitatively assess a wide range of yield constraints, ranging from plant nutrient deficiencies to soil structural constraints, and offer solutions for overcoming them. The constraints are diagnosed through observable indicators, in some cases with follow-up laboratory analyses.</description>
     </item>
-    
     <item>
       <title>Scientific publications</title>
       <link>https://www.isda-africa.com/science/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/science/publications/</guid>
-      <description>Shepherd KD and Walsh MG. (2002) Development of reflectance spectral libraries for characterization of soil properties. Soil Science Society of America Journal 66:988-998. doi:10.2136/sssaj2002.9880
-Shepherd KD, Palm CA, Gachengo CN and Vanlauwe B (2003) Rapid characterization of organic resource quality for soil and livestock management in tropical agroecosystems using near infrared spectroscopy. Agronomy Journal 95:1314-1322. doi:10.2134/agronj2003.1314
-Cohen MJ, Shepherd KD, and Walsh MG (2004). Improved application of the Universal Soil Loss Equation in tropical watersheds.</description>
+      <description>Shepherd KD and Walsh MG. (2002) Development of reflectance spectral libraries for characterization of soil properties. Soil Science Society of America Journal 66:988-998. doi:10.2136/sssaj2002.9880&#xA;Shepherd KD, Palm CA, Gachengo CN and Vanlauwe B (2003) Rapid characterization of organic resource quality for soil and livestock management in tropical agroecosystems using near infrared spectroscopy. Agronomy Journal 95:1314-1322. doi:10.2134/agronj2003.1314&#xA;Cohen MJ, Shepherd KD, and Walsh MG (2004). Improved application of the Universal Soil Loss Equation in tropical watersheds.</description>
     </item>
-    
     <item>
       <title>Soil-plant spectral diagnostics</title>
       <link>https://www.isda-africa.com/science/spectral-diagnostics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/science/spectral-diagnostics/</guid>
-      <description>iSDA has considerable experience with use of sensors for rapid assessment of soil and plant health, as part of our wider work on diagnostics.
-iSDA&amp;rsquo;s Chief Scientist, Keith Shepherd, pioneered the use of diffuse reflectance spectroscopy for soil and plant analysis in Africa from the early 2000&amp;rsquo;s and has developed several global soil spectral libraries (see references below). He has helped establish soil spectroscopy in over 20 African laboratories, as well as in India, UK and USA.</description>
+      <description>iSDA has considerable experience with use of sensors for rapid assessment of soil and plant health, as part of our wider work on diagnostics.&#xA;iSDA&amp;rsquo;s Chief Scientist, Keith Shepherd, pioneered the use of diffuse reflectance spectroscopy for soil and plant analysis in Africa from the early 2000&amp;rsquo;s and has developed several global soil spectral libraries (see references below). He has helped establish soil spectroscopy in over 20 African laboratories, as well as in India, UK and USA.</description>
     </item>
-    
     <item>
       <title>Spatial Agronomy</title>
       <link>https://www.isda-africa.com/science/spatial-agronomy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/science/spatial-agronomy/</guid>
       <description>Open access geospatial datasets are what underpin iSDA&amp;rsquo;s approach to Spatial Agronomy. Satellites are constantly monitoring the Earth&amp;rsquo;s surface, allowing us to understand what is currently happening in any field. Many satellite missions have been orbiting the Earth for a long time - since the 1970&amp;rsquo;s, in the case of the Landsat missions. This means we can see how a field has been managed in the past few decades. We are also able to peer into the future using weather forecasts.</description>
     </item>
-    
     <item>
       <title>Virtual Agronomist Privacy Policy</title>
       <link>https://www.isda-africa.com/virtual-agronomist-privacy-policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://www.isda-africa.com/virtual-agronomist-privacy-policy/</guid>
-      <description>Privacy Policy
-iSDA built the Virtual Agronomist app as a Commercial app. This SERVICE is provided by iSDA and is intended for use as is.
-This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.
-If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
+      <description>Privacy Policy&#xA;iSDA built the Virtual Agronomist app as a Commercial app. This SERVICE is provided by iSDA and is intended for use as is.&#xA;This page is used to inform visitors regarding our policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service.&#xA;If you choose to use our Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
-    
   </channel>
 </rss>
