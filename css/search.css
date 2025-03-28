@@ -1,0 +1,16 @@
+:root {
+    --pagefind-ui-font: var(--font-family-base);
+    --pagefind-ui-border-radius: .375rem;
+    --pagefind-ui-image-border-radius: .375rem;
+    --pagefind-ui-primary: var(--bs-primary);
+    --pagefind-ui-text: var(--bs-body-color);
+    --pagefind-ui-background: var(--bs-body-bg);
+}
+
+.pagefind-ui__search-input {
+    box-shadow: 0 .5rem 1.5rem rgba(67, 73, 92, .1);
+}
+
+input:focus {
+    outline-color: var(--bs-primary);
+}
