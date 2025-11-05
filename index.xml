@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iSDA</title><link>https://www.isda-africa.com/</link><description>Recent content on iSDA</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 22 Oct 2025 11:09:23 +0100</lastBuildDate><atom:link href="https://www.isda-africa.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Developer Portal</title><link>https://www.isda-africa.com/isdasoil/developer/</link><pubDate>Fri, 08 Jul 2022 12:50:33 +0100</pubDate><guid>https://www.isda-africa.com/isdasoil/developer/</guid><description>&lt;h2 id="how-do-i-sign-up-to-use-the-isdasoil-api"&gt;How do I sign up to use the iSDAsoil API?&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>iSDA</title><link>https://www.isda-africa.com/</link><description>Recent content on iSDA</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Mon, 03 Nov 2025 15:50:33 +0100</lastBuildDate><atom:link href="https://www.isda-africa.com/index.xml" rel="self" type="application/rss+xml"/><item><title>Developer Portal</title><link>https://www.isda-africa.com/isdasoil/developer/</link><pubDate>Fri, 08 Jul 2022 12:50:33 +0100</pubDate><guid>https://www.isda-africa.com/isdasoil/developer/</guid><description>&lt;h2 id="how-do-i-sign-up-to-use-the-isdasoil-api"&gt;How do I sign up to use the iSDAsoil API?&lt;/h2&gt;
 &lt;p&gt;Sign up by creating a username and password on our &lt;a href="https://isda-africa.com/api/registration"&gt;sign up page&lt;/a&gt;. This
 will be required to obtain an access token.&lt;/p&gt;
 &lt;h2 id="what-can-i-do-with-the-isdasoil-api"&gt;What can I do with the iSDAsoil API?&lt;/h2&gt;
@@ -11,7 +11,167 @@ except those provided by third parties. For further details on the available dat
 &lt;p&gt; &lt;/p&gt;
 &lt;h2 id="data-overview"&gt;Data Overview&lt;/h2&gt;
 &lt;p&gt; &lt;/p&gt;
-&lt;p&gt;All data has been prepared as cloud-optimised geoTIFFs (essentially geographically aware images). A single file covers the whole of Africa. Related data have been grouped together as bands in a single file. For most soil property predictions, this means that each file has 4 bands – the predicted mean value, and model error (expressed as 1 standard deviation) at 2 soil depths: 0-20cm and 20-50cm. For covariate data the number of bands is variable.&lt;/p&gt;</description></item><item><title>Changing the Yield Curve: How Smarter, AI-Powered Advice Can Transform African Farming</title><link>https://www.isda-africa.com/posts/changing-the-yield-curve/</link><pubDate>Wed, 22 Oct 2025 11:09:23 +0100</pubDate><guid>https://www.isda-africa.com/posts/changing-the-yield-curve/</guid><description>&lt;p&gt;For decades, Africa’s smallholder farmers have produced only a fraction of the yields seen elsewhere. Despite billions spent on seeds and fertiliser, productivity has stagnated - not for lack of effort, but because most farmers lack access to one thing the rest of the world takes for granted: field-specific agronomic advice.&lt;/p&gt;
+&lt;p&gt;All data has been prepared as cloud-optimised geoTIFFs (essentially geographically aware images). A single file covers the whole of Africa. Related data have been grouped together as bands in a single file. For most soil property predictions, this means that each file has 4 bands – the predicted mean value, and model error (expressed as 1 standard deviation) at 2 soil depths: 0-20cm and 20-50cm. For covariate data the number of bands is variable.&lt;/p&gt;</description></item><item><title>COP 30</title><link>https://www.isda-africa.com/cop-30/</link><pubDate>Mon, 03 Nov 2025 15:50:33 +0100</pubDate><guid>https://www.isda-africa.com/cop-30/</guid><description>&lt;section&gt;
+ &lt;div class="container py-10 d-flex flex-column justify-content-center" style="min-height: 50vh;"&gt;
+ 
+ &lt;div class="row text-center mb-8"&gt;
+ &lt;div class="col-12"&gt;
+ &lt;h1 class="display-3 fw-bold mb-0 text-primary"&gt;1.6x Yields, Stronger Resilience: See How AI is Solving Africa&amp;#39;s Soil Crisis.&lt;/h1&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+
+ &lt;div class="row align-items-center"&gt;
+ 
+ &lt;div class="col-12 order-md-1" data-aos="fade-up"&gt;
+
+ 
+ 
+
+ 
+ 
+
+ 
+ &lt;div class="fs-lg text-muted mb-6"&gt;
+ Join &lt;a href="https://www.linkedin.com/in/bruce-kisitu-05459530"&gt;Bruce Kisitu&lt;/a&gt;, our Director of Operations, Africa at iSDA&amp;rsquo;s major global climate stage debut as he presents &lt;a href="https://www.isda-africa.com/virtual-agronomist"&gt;Virtual Agronomist&amp;rsquo;s&lt;/a&gt; role in building climate resilience for African smallholder farmers.
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;/section&gt;
+
+
+&lt;section data-jarallax data-speed=".8" class="py-10 jarallax text-white"
+ style="background-image: url(/img/virtual_agronomist/DSC_8443%20copy_hu_8d43eb4f02fcac7d.jpg); min-height: 100vh; background-size: cover; background-position: center;"&gt;
+ &lt;div class="container d-flex flex-column justify-content-center" style="min-height: 100vh;" data-aos="fade-up"&gt;
+ &lt;div class="row align-items-center justify-content-start"&gt;
+ &lt;div class="col-12 col-md-7 col-lg-6" style="background: #565b6ceb" &gt;
+ &lt;h1 class="display-3 fw-bold mb-0 mt-6 text-success"&gt;The challenge&lt;/h1&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="row align-items-center justify-content-start"&gt;
+ &lt;div class="col-12 col-md-7 col-lg-6" style="background: #565b6ceb"&gt;
+
+ 
+ 
+
+ 
+ &lt;h2 class="mt-3"&gt;
+ 
+ &lt;/h2&gt;
+
+ 
+ &lt;div class="fs-lg mb-6"&gt;
+ &lt;strong&gt;60%&lt;/strong&gt; of African soils are degraded, undermining food security and climate stability across the continent. Climate resilience must be built from the ground up. The technology exists. The results are proven. The time for action is now.
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;/section&gt;
+
+
+
+
+
+ 
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+&lt;section&gt;
+ &lt;div class="container py-10 d-flex flex-column justify-content-center" style="min-height: 50vh;"&gt;
+ 
+ &lt;div class="row text-center mb-8"&gt;
+ &lt;div class="col-12"&gt;
+ &lt;h1 class="display-3 fw-bold mb-0 text-primary"&gt;The Breakthrough&lt;/h1&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ 
+
+ &lt;div class="row align-items-center"&gt;
+ 
+ &lt;div class="col-12 col-md-5 col-lg-6 order-md-1" data-aos="fade-up"&gt;
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+&lt;img
+ src="https://www.isda-africa.com/img/charts/2025%20activity_hu_471232508944e972.webp"
+ srcset="https://www.isda-africa.com/img/charts/2025%20activity_hu_59d14ade7664ff09.webp 2x, https://www.isda-africa.com/img/charts/2025%20activity_hu_471232508944e972.webp 1x"
+ class="img-fluid rounded shadow-lg"&gt;
+
+ 
+ 
+
+ &lt;/div&gt;
+ 
+ &lt;div class="col-12 col-md-7 col-lg-6 order-md-1" data-aos="fade-up"&gt;
+
+ 
+ 
+
+ 
+ 
+ &lt;h2&gt;
+ From Pilot to Powerhouse: 250,000 Farmers in One Year
+ &lt;/h2&gt;
+ 
+
+ 
+ &lt;div class="fs-lg text-muted mb-6"&gt;
+ Discover how iSDA&amp;rsquo;s Virtual Agronomist transforms complex agronomic data into clear, actionable advice, tailored to each farmer, each plot, each season. This is precision support at scale, proving that soil resilience and climate action can be achieved together for real-world impact.
+ &lt;/div&gt;
+
+ &lt;/div&gt;
+ &lt;/div&gt; 
+ &lt;/div&gt; 
+&lt;/section&gt;
+
+
+&lt;section data-jarallax data-speed=".8" class="py-10 jarallax text-white"
+ style="background-image: url(/img/virtual_agronomist/DSC_8566%20copy_hu_35fe12799558aca6.jpg); min-height: 100vh; background-size: cover; background-position: center;"&gt;
+ &lt;div class="container d-flex flex-column justify-content-center" style="min-height: 100vh;" data-aos="fade-up"&gt;
+ &lt;div class="row align-items-center justify-content-end"&gt;
+ &lt;div class="col-12 col-md-7 col-lg-6" style="background: #565b6ceb" &gt;
+ &lt;h1 class="display-3 fw-bold mb-0 mt-6 text-success"&gt;The conversation&lt;/h1&gt;
+ &lt;/div&gt;
+ &lt;/div&gt;
+ &lt;div class="row align-items-center justify-content-end"&gt;
+ &lt;div class="col-12 col-md-7 col-lg-6" style="background: #565b6ceb"&gt;
+
+ 
+ 
+
+ 
+ &lt;h2 class="mt-3"&gt;
+ 
+ &lt;/h2&gt;
+
+ 
+ &lt;div class="fs-lg mb-6"&gt;
+ &lt;p&gt;See how AI-driven soil health is creating a new model for climate adaptation, one that&amp;rsquo;s affordable, scalable, and already working across Africa.&lt;/p&gt;</description></item><item><title>Changing the Yield Curve: How Smarter, AI-Powered Advice Can Transform African Farming</title><link>https://www.isda-africa.com/posts/changing-the-yield-curve/</link><pubDate>Wed, 22 Oct 2025 11:09:23 +0100</pubDate><guid>https://www.isda-africa.com/posts/changing-the-yield-curve/</guid><description>&lt;p&gt;For decades, Africa’s smallholder farmers have produced only a fraction of the yields seen elsewhere. Despite billions spent on seeds and fertiliser, productivity has stagnated - not for lack of effort, but because most farmers lack access to one thing the rest of the world takes for granted: field-specific agronomic advice.&lt;/p&gt;
 &lt;p&gt;That advice works. Traditional agricultural extension, where agronomists visit farms in person, can double or even triple yields - but it typically costs $30–60 per farmer per year, a figure that makes continental coverage impossible. iSDA has found a cheaper way. Our &lt;a href="https://www.isda-africa.com/virtual-agronomist"&gt;Virtual Agronomist&lt;/a&gt; uses artificial intelligence to deliver site-specific recommendations through a simple chat interface for about $1 per farmer per season. Already serving more than 250,000 farmers, it has achieved yield increases of up to 60 per cent. If those results scale, Africa’s next agricultural revolution could be digital rather than mechanical.&lt;/p&gt;</description></item><item><title>A Product Manager’s Perspective on the Future of African Agriculture</title><link>https://www.isda-africa.com/posts/manuel-exec-profile/</link><pubDate>Mon, 13 Oct 2025 10:07:53 +0100</pubDate><guid>https://www.isda-africa.com/posts/manuel-exec-profile/</guid><description>&lt;p&gt;A Product Manager’s Perspective on the Future of African Agriculture&lt;/p&gt;
 &lt;p&gt;AI and agronomy are powerful forces in transforming smallholder agriculture. But without strong product leadership, the benefits can remain out of reach for farmers.&lt;/p&gt;
 &lt;p&gt;At iSDA, &lt;strong&gt;Emmanuel Gyampo&lt;/strong&gt; plays that connecting role. As Product Manager for &lt;a href="https://www.isda-africa.com/virtual-agronomist"&gt;Virtual Agronomist&lt;/a&gt;, he brings together agronomists, data scientists and farmers — helping translate complex models into simple, actionable advice farmers can trust. In this interview, Emmanuel shares how he bridges these worlds to make data-driven farming work on the ground.&lt;/p&gt;</description></item><item><title>From 250,000 to 500,000: What We’re Learning as Virtual Agronomist Scales</title><link>https://www.isda-africa.com/posts/from-250000-to-500000/</link><pubDate>Wed, 08 Oct 2025 11:47:42 +0100</pubDate><guid>https://www.isda-africa.com/posts/from-250000-to-500000/</guid><description>&lt;p&gt;In early 2024, we launched &lt;a href="https://www.isda-africa.com/virtual-agronomist"&gt;Virtual Agronomist&lt;/a&gt; with a bold question: &lt;em&gt;what if every farmer
