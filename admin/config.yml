@@ -20,6 +20,7 @@ collections:
     path: "{{slug}}"
     media_folder: /assets/img/post
     public_folder: /img/post
+    preview_path: "/posts/{{slug}}"
     fields:
       - label: Title
         name: title
