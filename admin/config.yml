@@ -10,16 +10,14 @@ logo:
   src: /iSDA_Logo_Master_Pos_RGB.svg
   alt: iSDA Logo
 publish_mode: editorial_workflow
-media_folder: /assets/img/post
+media_folder: img/post
 public_folder: img/post
 collections:
   - name: "posts"
     label: "Posts"
-    folder: content/posts
+    folder: posts
     create: true
-    path: "{{slug}}"
-    media_folder: /assets/img/post
-    public_folder: /img/post
+    path: "{{slug}}/index"
     fields:
       - label: Title
         name: title
