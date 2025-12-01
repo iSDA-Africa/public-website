@@ -1,0 +1,61 @@
+backend:
+  name: github
+  repo: iSDA-Africa/isda-new-website  # Path to GitHub repository
+  branch: decap-cms    # Branch for Decap CMS to create Pull Requests against
+  base_url: https://public-website-cms-oauth-client-665342871462.europe-west1.run.app  # Base URL extracted from the Cloud Function Endpoint URL
+  auth: cloud_run/auth
+  auth_scope: repo
+site_url: https://isda-africa.com
+logo:
+  src: /iSDA_Logo_Master_Pos_RGB.svg
+  alt: iSDA Logo
+publish_mode: editorial_workflow
+media_folder: /assets/img/post
+public_folder: img/post
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: content/posts
+    create: true
+    path: "{{slug}}"
+    media_folder: /assets/img/post
+    public_folder: /img/post
+    fields:
+      - label: Title
+        name: title
+        widget: string
+      - label: Publish Date
+        name: date
+        widget: datetime
+      - label: Featured Image
+        name: image
+        widget: image
+      - label: Tags
+        name: tags
+        widget: select
+        multiple: true
+        options:
+          - {label: "Climate", value: climate}
+          - {label: "Company", value: company}
+          - { label: "Data", value: data }
+          - { label: "Events", value: events }
+          - { label: "Farmers", value: farmers }
+          - { label: "Featured", value: featured }
+          - { label: "Ghana", value: ghana }
+          - { label: "Impact", value: impact }
+          - { label: "iSDAsoil", value: isdasoil }
+          - { label: "Kenya", value: kenya }
+          - { label: "Media", value: media }
+          - { label: "Nigeria", value: nigeria }
+          - { label: "Partnerships", value: partnerships }
+          - { label: "Publications", value: publications }
+          - { label: "Rwanda", value: rwanda }
+          - { label: "Tanzania", value: tanzania }
+          - { label: "Team", value: team }
+          - { label: "Uganda", value: uganda }
+          - { label: "Virtual Agronomist", value: virtual_agronomist }
+          - { label: "Zambia", value: zambia }
+        required: false
+      - label: Body
+        name: body
+        widget: markdown
