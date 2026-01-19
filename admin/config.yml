@@ -11,15 +11,13 @@ logo:
   alt: iSDA Logo
 publish_mode: editorial_workflow
 media_folder: /assets/img/post
-public_folder: img/post
+public_folder: /img/post
 collections:
   - name: "posts"
     label: "Posts"
     folder: content/posts
     create: true
     path: "{{slug}}"
-    media_folder: /assets/img/post
-    public_folder: /img/post
     preview_path: "/posts/{{slug}}"
     fields:
       - label: Title
