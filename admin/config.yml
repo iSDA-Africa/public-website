@@ -15,10 +15,13 @@ public_folder: /img/post
 collections:
   - name: "posts"
     label: "Posts"
+    label_singular: "post"
     folder: content/posts
     create: true
     path: "{{slug}}"
     preview_path: "/posts/{{slug}}"
+    media_folder: /assets/img/post
+    public_folder: /img/post
     fields:
       - label: Title
         name: title
