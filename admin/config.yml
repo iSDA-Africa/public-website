@@ -19,6 +19,7 @@ collections:
     create: true
     path: "{{slug}}"
     preview_path: "/posts/{{slug}}"
+    media_folder: /assets/img/post
     fields:
       - label: Title
         name: title
