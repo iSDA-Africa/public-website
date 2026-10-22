@@ -1,5 +1,5 @@
 CMS.registerEditorComponent({
-  id: "image",
+  id: "isda-image",
   label: "Image - iSDA",
   fields: [
     {

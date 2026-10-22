@@ -1,9 +1,9 @@
 backend:
   name: github
   repo: iSDA-Africa/isda-new-website  # Path to GitHub repository
-  branch: main    # Branch for Decap CMS to create Pull Requests against
-  base_url: https://public-website-cms-oauth-client-665342871462.europe-west1.run.app  # Base URL extracted from the Cloud Function Endpoint URL
-  auth: cloud_run/auth
+  branch: main
+  base_url: https://public-website-cms-oauth-client-665342871462.europe-west1.run.app
+  auth_endpoint: cloud_run/auth
   auth_scope: repo
 site_url: https://isda-africa.com
 logo:
