@@ -11,6 +11,7 @@ CMS.registerEditorComponent({
             name: "text-class",
             label: "Text CSS Class (optional)",
             widget: "string",
+            required: false,
         }
     ],
     pattern: /^{{<\s*image-annotation(?:\s+text-class="([^"]*)")?\s*>}}([\s\S]*?){{<\s*\/image-annotation\s*>}}$/m,

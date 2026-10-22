@@ -6,6 +6,7 @@ backend:
   auth_endpoint: cloud_run/auth
   auth_scope: repo
 site_url: https://isda-africa.com
+show_preview_links: false
 logo:
   src: /iSDA_Logo_Master_Pos_RGB.svg
   alt: iSDA Logo
