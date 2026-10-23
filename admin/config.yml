@@ -13,6 +13,15 @@ logo:
 publish_mode: editorial_workflow
 media_folder: /assets/img/post
 public_folder: /img/post
+asset_collections:
+  - name: website_images
+    label: Website Images
+    media_folder: /assets/img
+    public_folder: /img
+  - name: wordpress_images
+    label: Legacy WordPress Images
+    media_folder: /assets/wp-content
+    public_folder: /wp-content
 collections:
   - name: "posts"
     label: "Posts"
@@ -63,3 +72,63 @@ collections:
       - label: Name
         name: title
         widget: string
+  - name: team
+    label: Team Members
+    label_singular: Team Member
+    folder: data/team/members
+    extension: yaml
+    format: yaml
+    create: true
+    delete: true
+    identifier_field: name
+    summary: '{{name}} — {{title}}'
+    sortable_fields: [name, title, team]
+    media_folder: /assets/img/team
+    public_folder: /img/team
+    editor:
+      preview: true
+    fields:
+      - label: Name
+        name: name
+        widget: string
+      - label: Job Title
+        name: title
+        widget: string
+      - label: Team
+        name: team
+        widget: select
+        required: false
+        options:
+          - { label: Agronomy, value: agronomy }
+          - { label: Digital, value: digital }
+          - { label: Last Mile, value: last-mile }
+          - { label: Operations, value: operations }
+          - { label: Board, value: board }
+      - label: Board Chair
+        name: chair
+        widget: boolean
+        default: false
+        required: false
+        hint: Applies only to members of the Board.
+      - label: Profile Photo
+        name: img
+        widget: image
+        required: false
+        hint: The website uses a placeholder if no photo is selected.
+      - label: Biography
+        name: bio
+        widget: text
+      - label: LinkedIn URL
+        name: linkedin
+        widget: string
+        required: false
+        pattern: ['^https://[^\s]+$', 'Enter a full HTTPS URL.']
+      - label: Careers Testimonial
+        name: testimonial
+        widget: text
+        required: false
+        hint: Optional quote displayed on the careers page.
+      - label: Testimonial Photo
+        name: testimonial_img
+        widget: image
+        required: false

@@ -33,28 +33,35 @@ CMS.registerEditorComponent({
       required: false,
     },
   ],
-  pattern: /^{{<\s*image\s+src="([^"]+)"(?:\s+class="([^"]+)")?(?:\s+alt="([^"]+)")?(?:\s+maxwidth="([^"]+)")?(?:\s+style="([^"]+)")?\s*>}}$/m,
+  pattern: /^{{<\s*image\s+((?:(?:src|class|alt|maxwidth|style)\s*=\s*(?:"[^"]*"|'[^']*'|[^\s"'<>}]+)\s*)+)>}}[ \t]*$/m,
   fromBlock: function (match) {
-    return {
-      src: match[1],
-      class: match[2] || "",
-      alt: match[3] || "",
-      maxwidth: match[4] || "",
-      style: match[5] || "",
-    };
+    var fields = { src: "", class: "", alt: "", maxwidth: "", style: "" };
+    match[1].replace(/(src|class|alt|maxwidth|style)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s"'<>}]+))/g,
+      function (_, name, doubleQuoted, singleQuoted, unquoted) {
+        fields[name] = doubleQuoted !== undefined ? doubleQuoted
+          : singleQuoted !== undefined ? singleQuoted : unquoted;
+      }
+    );
+    return fields;
   },
   toBlock: function (obj) {
-    return `{{< image src="${obj.src}" ${obj.class ? ` class="${obj.class}"` : ""}${obj.alt ? ` alt="${obj.alt}"` : ""}${
+    return `{{< image src="${obj.src || ""}" ${obj.class ? ` class="${obj.class}"` : ""}${obj.alt ? ` alt="${obj.alt}"` : ""}${
       obj.maxwidth ? ` maxwidth="${obj.maxwidth}"` : ""
     }${
       obj.style ? ` style="${obj.style}"` : ""
     } >}}`;
   },
   toPreview: function (obj) {
-    console.log(obj);
-    const classAttr = obj.class ? `class="${obj.class} mt-5"` : 'class="mt-5"';
-    const altAttr = obj.alt ? `alt="${obj.alt}"` : "";
-    const styleAttr = obj.style ? `style="${obj.style}"` : "";
-    return `<img src="${obj.src}" ${classAttr} ${altAttr} ${styleAttr} /">`;
+    if (!obj.src) {
+      return "";
+    }
+    function escapeAttribute(value) {
+      return String(value).replace(/&/g, "&amp;").replace(/"/g, "&quot;")
+        .replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    }
+    const classAttr = escapeAttribute((obj.class ? obj.class + " " : "") + "mt-5");
+    const width = /^\d+$/.test(String(obj.maxwidth)) && Number(obj.maxwidth) > 0
+      ? Number(obj.maxwidth) : 500;
+    return `<img src="${escapeAttribute(obj.src)}" class="${classAttr}" alt="${escapeAttribute(obj.alt || "")}" width="${width}" style="${escapeAttribute(obj.style || "")}" />`;
   },
 });

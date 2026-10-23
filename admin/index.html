@@ -7,13 +7,20 @@
     <link href="config.yml" type="text/yaml" rel="cms-config-url">
   </head>
   <body>
-    <script src="https://unpkg.com/@sveltia/cms/dist/sveltia-cms.js"></script>
+    <!-- Load a known preview-capable release and register previews before startup. -->
+    <script>
+      window.CMS_MANUAL_INIT = true;
+    </script>
+    <script src="https://unpkg.com/@sveltia/cms@0.250.2/dist/sveltia-cms.js"></script>
     <script src="/admin/image-component.js"></script>
     <script src="/admin/image-annotation-component.js"></script>
     <script src="/admin/post-preview.js"></script>
+    <script src="/admin/team-preview.js"></script>
     <script>
       CMS.registerPreviewStyle("/css/libs.bundle.css");
       CMS.registerPreviewStyle("/css/theme.bundle.css");
+      CMS.registerPreviewStyle("/admin/team-preview.css");
+      CMS.init();
     </script>
   </body>
 </html>
